@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <include
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/app_title" />
+
+    <ScrollView
+        android:id="@+id/sc1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title"
+        android:layout_above="@+id/btn_submit"
+        android:layout_marginLeft="@dimen/addinfo_view_horizontal"
+        android:layout_marginRight="@dimen/addinfo_view_horizontal" >
+
+        <!-- android:layout_weight="7" -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/addinfo_item_height"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="@dimen/addinfo_view_horizontal"
+                    android:gravity="center_vertical"
+                    android:text="@string/Mr_dzhm" />
+
+                <TextView
+                    android:id="@+id/tv_dzhm"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/addinfo_line_small"
+                android:background="@color/line1dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/addinfo_item_height"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="@dimen/addinfo_view_horizontal"
+                    android:gravity="center_vertical"
+                    android:text="@string/Mr_ljh" />
+
+                <TextView
+                    android:id="@+id/tv_ljh"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/addinfo_line_small"
+                android:background="@color/line1dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/addinfo_item_height"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="@dimen/addinfo_view_horizontal"
+                    android:gravity="center_vertical"
+                    android:text="@string/Mr_sl" />
+
+                <TextView
+                    android:id="@+id/tv_sl"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/addinfo_line_small"
+                android:background="@color/line1dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/addinfo_item_height"
+                android:layout_marginTop="@dimen/addinfo_spinner_top"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="@dimen/addinfo_view_horizontal"
+                    android:gravity="center_vertical"
+                    android:text="@string/addinfo_route" />
+
+                <Spinner
+                    android:id="@+id/sp_route"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <CheckBox
+                    android:id="@+id/ckb_ps"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/addinfo_yps" />
+
+                <CheckBox
+                    android:id="@+id/ckb_slbf"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/addinfo_slbf" />
+
+                <CheckBox
+                    android:id="@+id/ckb_qs"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/addinfo_qs"
+                    android:visibility="invisible" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tv_pszp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/addinfo_text_bottom"
+                android:text="@string/addinfo_pszp"
+                android:visibility="gone" />
+
+            <GridView
+                android:id="@+id/gr_ps"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_gridview_addpic"
+                android:horizontalSpacing="1dp"
+                android:numColumns="5"
+                android:scrollbars="none"
+                android:verticalSpacing="5dp"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/tv_slbfzp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/addinfo_text_bottom"
+                android:text="@string/addinfo_slbfzp"
+                android:visibility="gone" />
+
+            <GridView
+                android:id="@+id/gr_slbf"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_gridview_addpic"
+                android:horizontalSpacing="1dp"
+                android:numColumns="5"
+                android:scrollbars="none"
+                android:verticalSpacing="5dp"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/tv_qszp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/addinfo_text_bottom"
+                android:text="@string/addinfo_qszp"
+                android:visibility="gone" />
+
+            <GridView
+                android:id="@+id/gr_qs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_gridview_addpic"
+                android:horizontalSpacing="1dp"
+                android:numColumns="5"
+                android:scrollbars="none"
+                android:verticalSpacing="5dp"
+                android:visibility="gone" />
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/btn_submit"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/addinfo_item_height"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="5dp"
+        android:background="@drawable/btn_selected"
+        android:text="@string/addinfo_submit"
+        android:textColor="@android:color/white" />
+
+</RelativeLayout>

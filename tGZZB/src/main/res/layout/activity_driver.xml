@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <include
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/app_title" />
+
+    <LinearLayout
+        android:id="@+id/head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title"
+        android:background="#87a7d6"
+        android:orientation="horizontal"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp" >
+
+        <CheckBox
+            android:id="@+id/ckb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_weight="2"
+            android:gravity="start|center_vertical"
+            android:text="@string/driver_qyjc" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_weight="2"
+            android:gravity="start|center_vertical"
+            android:text="@string/driver_fdh" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_weight="2"
+            android:gravity="start|center_vertical"
+            android:text="@string/driver_shdz" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_weight="1"
+            android:gravity="start|center_vertical"
+            android:text="@string/driver_js" />
+    </LinearLayout>
+
+    <ExpandableListView
+        android:id="@+id/explist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/head"
+        android:layout_marginBottom="60dp"
+        android:groupIndicator="@null" />
+    <!-- android:groupIndicator="@drawable/explist_arrow" -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="5dp"
+        android:orientation="horizontal" >
+<!-- android:visibility="gone" -->
+        <Button
+            android:id="@+id/btn_yth"
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:visibility="gone"
+            android:background="@drawable/btn_corner"
+            android:text="已提货"
+            android:textSize="@dimen/btn_text_size" />
+
+        <Button
+            android:id="@+id/btn_submit_qsd"
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_corner"
+            android:text="上传签收单"
+            android:textSize="@dimen/btn_text_size" />
+    </LinearLayout>
+
+</RelativeLayout>

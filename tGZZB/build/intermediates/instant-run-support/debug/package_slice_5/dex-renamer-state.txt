@@ -1,0 +1,4 @@
+#Mon Jul 17 19:29:04 CST 2017
+base.0=F\:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+renamed.0=classes.dex
+file.0=F\:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\transforms\\dexMerger\\debug\\5\\classes.dex

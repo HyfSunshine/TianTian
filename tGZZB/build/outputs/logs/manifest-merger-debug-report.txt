@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:2:1-85:12
+INJECTED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:2:1-85:12
+INJECTED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:2:1-85:12
+INJECTED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:2:1-85:12
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\447750187fec9cd196d2625deb73744b\AndroidManifest.xml:14:4-17:12
+INJECTED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:2:1-85:12
+INJECTED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:2:1-85:12
+INJECTED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:2:1-85:12
+	package
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml
+		INJECTED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml
+		INJECTED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml
+		INJECTED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\447750187fec9cd196d2625deb73744b\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\447750187fec9cd196d2625deb73744b\AndroidManifest.xml:15:5-42
+INJECTED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml
+		INJECTED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml
+		INJECTED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.INTERNET
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.CAMERA
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:13:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:15:22-77
+uses-feature#android.hardware.camera
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:17:5-60
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:17:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:18:5-70
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:18:19-67
+uses-permission#android.permission.VIBRATE
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:20:22-63
+uses-permission#android.permission.FLASHLIGHT
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:21:5-69
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:21:22-66
+application
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:23:5-83:19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\447750187fec9cd196d2625deb73744b\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\447750187fec9cd196d2625deb73744b\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:26:9-42
+	android:allowBackup
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:28:9-40
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:24:9-43
+activity#com.tgzzb.cdc.ShowPageActivity
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:29:9-37:20
+	android:label
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:30:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:35:27-74
+activity#com.tgzzb.cdc.LoginActivity
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:38:9-39:20
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:38:19-48
+activity#com.tgzzb.cdc.MainActivity
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:41:9-42:20
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:41:19-47
+activity#com.tgzzb.cdc.MrActivity
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:43:9-44:20
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:43:19-45
+activity#com.tgzzb.cdc.MrAddInfoActivity
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:45:9-48:20
+	android:screenOrientation
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:47:13-49
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:46:13-46
+activity#com.tgzzb.cdc.MrCheckAllPicActivity
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:49:9-50:20
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:49:19-56
+activity#com.tgzzb.cdc.DriverActivity
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:53:9-54:20
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:53:19-62
+activity#com.tgzzb.cdc.DriverAddInfoActivity
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:55:9-59:20
+	android:screenOrientation
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:57:13-49
+	android:windowSoftInputMode
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:58:13-64
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:56:13-63
+activity#com.tgzzb.cdc.DriverCheckPicActivity
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:60:9-61:20
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:60:19-70
+activity#com.tgzzb.cdc.BGCZActivity
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:63:9-66:20
+	android:configChanges
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:65:13-63
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:64:13-54
+activity#com.zxing.android.CaptureActivity
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:67:9-68:20
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:67:19-67
+activity#com.tgzzb.cdc.KADLActivity
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:70:9-71:20
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:70:19-60
+activity#com.tgzzb.cdc.imagepicker.AlbumActivity
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:74:9-75:20
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:74:19-73
+activity#com.tgzzb.cdc.imagepicker.GalleryActivity
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:76:9-77:20
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:76:19-75
+activity#com.tgzzb.cdc.imagepicker.ImageFile
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:78:9-79:20
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:78:19-69
+activity#com.tgzzb.cdc.imagepicker.ShowAllPhoto
+ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:80:9-81:20
+	android:name
+		ADDED from F:\01_Codes2017\01_Android\01_Demo\TianTian\tGZZB\src\main\AndroidManifest.xml:80:19-72

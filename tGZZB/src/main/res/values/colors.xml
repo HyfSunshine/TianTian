@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="blue">#1288c7</color>
+    <color name="lightBlue">#87a7d6</color>
+    <color name="white">#ffffff</color>
+    <color name="gold">#b89766</color>
+    <color name="huise">#cdcdcd</color>
+    <color name="transparent">#00000000</color>
+    <color name="green">#7fdf2a</color>
+    <color name="gray">#4c4c4c</color>
+    <color name="light_white">#bfbfbf</color>
+    <color name="blue_50">#804a90e2</color>
+    <color name="ListFooter">#dbdbdb</color>
+
+    <!-- <color name="green">#2aa515</color> -->
+    <!-- 上传图片添加的颜色 -->
+    <color name="none_color">#00000000</color>
+    <color name="plugin_camera_black">#000000</color>
+    <color name="albumback">#E1E0DE</color>
+    <color name="line1dp">#cdcdcd</color>
+    <color name="white_text">#e6e6e6</color>
+    <!-- checkPicActivity -->
+    <color name="nopic_text_color">#8a8a8a</color>
+
+</resources>

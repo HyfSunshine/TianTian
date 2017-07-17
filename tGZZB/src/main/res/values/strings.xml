@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">掌中宝</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- WebString -->
+    <string name="request_url">http://58.210.237.173:803/</string>
+    <string name="request_url_asmx">http://58.210.237.173:803/MRWebService.asmx</string>
+    <string name="request_namespace">http://58.210.237.173:803/</string>
+    <string name="request_pic">http://58.210.237.173:803/MRuploads/</string>
+    <string name="GetVersion">http://58.210.237.173:803/MRWebService.asmx/GetVersion</string>
+    <!-- <string name="request_url78">http://58.210.237.170:8083/</string> -->
+    <!-- <string name="request_namespace78">http://58.210.237.170:8083/</string> -->
+    <!-- <string name="request_url_asmx78">http://58.210.237.170:8083/ifsweb/Service/IfswebAPPWebservice.asmx</string> -->
+    <!-- 测试地址 -->
+     <string name="request_url78">http://10.168.6.78/</string>
+    <string name="request_namespace78">http://10.168.6.78/</string>
+    <string name="request_url_asmx78">http://10.168.6.78/ifsweb/Service/IfswebAPPWebservice2.asmx</string>
+    
+    <string name="request_url170">http://58.210.237.170:8083/</string>
+    <string name="request_namespace170">http://58.210.237.170:8083/</string>
+    <string name="request_url_asmx170">http://58.210.237.170:8083/Ifsweb/Service/IfsWebAPPWebservice2.asmx</string>
+    <string name="GetDriveData">http://58.210.237.170:8083/Ifsweb/Service/IfswebAPPWebservice2.asmx/GetDriveData</string>
+    <string name="GetLoginData">http://58.210.237.170:8083/ifsweb/Service/IfswebAPPWebservice2.asmx/GetLoginData</string>
+    <string name="UpdateYsStatus">http://58.210.237.170:8083/Ifsweb/Service/IfsWebAPPWebservice2.asmx/UpdateYsStatus</string>
+    <string name="UploadFile">http://58.210.237.170:8083/Ifsweb/Service/IfsWebAPPWebservice2.asmx/UploadFile</string>
+    <string name="CDUpdate">http://58.210.237.170:8083/Ifsweb/Service/IfsWebAPPWebservice2.asmx/CDUpdate</string>
+    <string name="BGXCUpdate">http://58.210.237.170:8083/Ifsweb/Service/IfsWebAPPWebservice2.asmx/BGXCUpdate</string>
+    <string name="GetImagAdd">http://58.210.237.170:8083/Ifsweb/Service/IfsWebAPPWebservice2.asmx/GetImagAdd</string>
+    <string name="GetDriveData78">http://10.168.6.78/Ifsweb/Service/IfsWebAPPWebservice2.asmx/GetDriveData</string>
+    <string name="UploadFile78">http://10.168.6.78/Ifsweb/Service/IfsWebAPPWebservice2.asmx/UploadFile</string>
+<!--     http://10.168.6.78/Ifsweb/Service/IfsWebAPPWebservice2.asmx -->
+    <!-- method -->
+    <!-- method___GetLoginData -->
+    <string name="method_login">GetLoginData</string>
+    <string name="method_login_params_uname">username</string>
+    <string name="method_login_params_password">password</string>
+    <!-- method___GetPusData -->
+    <string name="method_getpus">GetPusData</string>
+    <string name="method_getpus_params_carno">carno</string>
+    <string name="method_getpus_params_plandate">plandate</string>
+    <!-- method___GetLineData -->
+    <string name="method_getline">GetLineData</string>
+    <string name="method_getline_params_carno">carno</string>
+    <string name="method_getline_params_dzhm">dzhm</string>
+    <!-- method___GetFileSort -->
+    <string name="method_getfilecount">GetFileSort</string>
+    <string name="method_getfilecount_dzhm">dzhm</string>
+    <!-- method___InsertData -->
+    <string name="method_insert_ycxx">InsertData</string>
+    <string name="method_insert_ycxx_dzhm">dzhm</string>
+    <string name="method_insert_ycxx_ddh">ddh</string>
+    <string name="method_insert_ycxx_qymc">qymc</string>
+    <string name="method_insert_ycxx_msg">message</string>
+    <string name="method_insert_ycxx_flag">flag</string>
+    <string name="method_insert_ycxx_carno">carno</string>
+    <string name="method_insert_ycxx_filename">filename</string>
+    <!-- method___UpdateData -->
+    <string name="method_updatadata">UpdateData</string>
+    <!-- method___UploadFile -->
+    <string name="method_uploadfile">UploadFile</string>
+    <string name="method_uploadfile_filebytes">fileBytes</string>
+    <string name="method_uploadfile_filename">fileName</string>
+    <string name="method_uploadfile_dzhm">dzhm</string>
+    <!-- method___GetDriveData -->
+    <string name="method_getdriverdata">GetDriveData</string>
+    <string name="method_getdriverdata_carcode">carcodeurl</string>
+    <!-- 图片浏览 -->
+    <string name="only_choose_num">超出可选图片张数</string>
+    <string name="finish">完成</string>
+    <string name="invalidSD">sdcard无效或没有插入！</string>
+    <string name="photo">选择相册</string>
+    <string name="album">相册</string>
+    <string name="preview">预览</string>
+    <string name="unfinished">完成</string>
+    <string name="camera_cancel">取消</string>
+    <string name="no_photo">相册没有图片</string>
+    <string name="back">后退</string>
+    <string name="exitApp">退出</string>
+    <!-- login -->
+    <string name="Login_login">登录</string>
+    <string name="Login_remember">记住密码？</string>
+    <string name="Login_hint_uname">请输入用户名:</string>
+    <string name="Login_hint_pword">请输入密码:</string>
+
+    <!-- Mr -->
+    <string name="Mr_dzhm">单证号码</string>
+    <string name="Mr_ljh">零件号</string>
+    <string name="Mr_sl">数量</string>
+    <!-- MrAddInfo -->
+    <string name="addinfo_dzhm">单证号码:</string>
+    <string name="addinfo_ljh">零件号:</string>
+    <string name="addinfo_sl">数量:</string>
+    <string name="addinfo_route">当前节点:</string>
+    <string name="addinfo_yps">有破损</string>
+    <string name="addinfo_slbf">数量不符</string>
+    <string name="addinfo_qs">签收</string>
+    <string name="addinfo_pszp">破损照片:</string>
+    <string name="addinfo_slbfzp">数量不符照片:</string>
+    <string name="addinfo_qszp">签收照片:</string>
+    <string name="addinfo_submit">提交</string>
+    <!-- checkpicactivity -->
+    <string name="nonepic">您还没有上传图片。</string>
+
+    <!-- driver -->
+    <string name="driver_title">司机操作</string>
+    <string name="driver_qyjc">企业简称</string>
+    <string name="driver_fdh">分单号</string>
+    <string name="driver_js">件数</string>
+    <string name="driver_mz">毛重</string>
+    <string name="driver_qyjc_">企业简称:</string>
+    <string name="driver_fdh_">分单号:</string>
+    <string name="driver_js_">件数:</string>
+    <string name="driver_mz_">毛重:</string>
+    <string name="driver_qybh">企业编号</string>
+    <string name="driver_qybh_">企业编号:</string>
+    <string name="driver_ywbh">业务编号</string>
+    <string name="driver_ywbh_">业务编号:</string>
+    <string name="driver_shdz">送货地址</string>
+    <string name="driver_shdz_">送货地址:</string>
+    <string name="driver_zdh_">总单号:</string>
+    <string name="driver_fph_">发票号:</string>
+    <string name="driver_dqzt_">当前状态:</string>
+    <string name="driver_isfolding_">是否可叠:</string>
+    <string name="driver_upload_qsd">上传签收单</string>
+    <string name="driver_upload_ps">上传破损照片</string>
+    <string name="driver_qsd_">签收单:</string>
+    <string name="driver_pszp_">破损照片:</string>
+    <string name="driver_notes">备注信息:</string>
+
+    <!-- BGCZ -->
+    <string name="bgcz_title">报关操作</string>
+    <string name="bgcz_bgdh">报关单号</string>
+    <string name="bgcz_yjd">已接单</string>
+    <string name="bgcz_ych">已抽号</string>
+    <string name="bgcz_wjd">未接单</string>
+
+    <!-- KADL -->
+
+    <string name="kadl_qybh">企业编号</string>
+    <string name="kadl_ycd">已抽单</string>
+
+</resources>

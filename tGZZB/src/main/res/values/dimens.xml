@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- imagepicker -->
+    <dimen name="ui_10_dip">10dip</dimen>
+
+    <!-- LoginActivity -->
+    <dimen name="lg_margin_horizontal">50dp</dimen>
+    <dimen name="lg_image_size">40dp</dimen>
+    <dimen name="lg_image_padding">5dp</dimen>
+
+    <!-- MainActivity -->
+    <dimen name="main_g_columnWidth">90dp</dimen>
+    <dimen name="main_g_item_Spacing">5dp</dimen>
+    <dimen name="main_g_margin_top">20dp</dimen>
+    <!-- MrAddInfo -->
+    <dimen name="addinfo_view_horizontal">10dp</dimen>
+    <dimen name="addinfo_item_height">40dp</dimen>
+    <dimen name="addinfo_line_small">0.5dp</dimen>
+    <dimen name="addinfo_spinner_top">5dp</dimen>
+    <dimen name="addinfo_text_bottom">5dp</dimen>
+    <!-- <dimen name="addinfo_gride_columns">5</dimen> -->
+
+
+    <!-- DriverAddInfo -->
+    <dimen name="driver_addinfo_item_height">35dp</dimen>
+
+    <!-- item_lv_mr -->
+
+
+    <!-- checkpicactivity -->
+    <dimen name="imageview_margin_top">40dp</dimen>
+    <dimen name="textview_margin_top">20dp</dimen>
+    <dimen name="btn_text_size">14sp</dimen>
+
+</resources>

@@ -1,0 +1,42 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        applicationId "com.tgzzb.cdc"
+        minSdkVersion 14
+        targetSdkVersion 21
+
+        ndk {
+            moduleName "libjpegbither"
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+
+    sourceSets{
+        main{
+            jni.srcDirs = []
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:21.+'
+    compile 'com.google.code.gson:gson:2.3.1'
+    compile files('libs/core.jar')
+    compile files('libs/glide-3.7.0.jar')
+    compile files('libs/ksoap2-android-assembly-3.1.0-jar-with-dependencies.jar')
+    compile files('libs/okhttp-3.6.0.jar')
+    compile files('libs/okhttputils-2_6_2.jar')
+    compile files('libs/okio-1.10.0.jar')
+    compile files('libs/xutileslibrary.jar')
+}

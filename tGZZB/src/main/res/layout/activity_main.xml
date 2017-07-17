@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.tgzzb.cdc.MainActivity" >
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/app_title" />
+
+    <GridView
+        android:id="@+id/gvInfo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/main_g_margin_top"
+        android:columnWidth="@dimen/main_g_columnWidth"
+        android:gravity="center"
+        android:horizontalSpacing="@dimen/main_g_item_Spacing"
+        android:numColumns="auto_fit"
+        android:stretchMode="spacingWidthUniform"
+        android:verticalSpacing="@dimen/main_g_item_Spacing" />
+
+</LinearLayout>

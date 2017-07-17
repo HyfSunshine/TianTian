@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+<!--     <TextView -->
+<!--         android:layout_width="match_parent" -->
+<!--         android:layout_height="30dp" -->
+<!--         android:layout_margin="10dp" -->
+<!--         android:background="@drawable/btn_corner" -->
+<!--         android:gravity="center" -->
+<!--         android:text="上传签收单" /> -->
+
+    <GridView
+        android:id="@+id/qsd_grid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_gridview_qsd"
+        android:horizontalSpacing="1dp"
+        android:numColumns="5"
+        android:scrollbars="none"
+        android:layout_margin="10dp"
+        android:verticalSpacing="5dp" >
+    </GridView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_openCamera"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_corner"
+            android:text="拍照" />
+
+        <Button
+            android:id="@+id/btn_openAlbum"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_corner"
+            android:text="打开相册" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_positive"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/btn_corner"
+        android:text="确定上传" />
+
+    <Button
+        android:id="@+id/btn_negative"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/btn_corner"
+        android:text="取消上传" />
+
+</LinearLayout>

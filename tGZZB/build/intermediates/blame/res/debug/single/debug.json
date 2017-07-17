@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_plugin_camera_gallery.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\plugin_camera_gallery.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable_plugin_camera_title_btn_back.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable\\plugin_camera_title_btn_back.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plugin_camera_no_pictures.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\plugin_camera_no_pictures.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_check_pic_none.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-ldpi\\check_pic_none.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable_plugin_camera_title_btn_cancel.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable\\plugin_camera_title_btn_cancel.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable_et_bg.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable\\et_bg.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable_bg_gridview_addpic.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable\\bg_gridview_addpic.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_mr.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\main_mr.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_qr_scan_line.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\qr_scan_line.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_activity_driver_addinfo.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\activity_driver_addinfo.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plugin_camera_title_bar.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\plugin_camera_title_bar.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plugin_camera_filenum.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\plugin_camera_filenum.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plugin_camera_preview_focused.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\plugin_camera_preview_focused.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_pop_upload_qsd.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\pop_upload_qsd.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_pic.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\add_pic.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_app_icon.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable_btn_no_corner.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable\\btn_no_corner.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_activity_kadl.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\activity_kadl.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plugin_camera_bottom_bar.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\plugin_camera_bottom_bar.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plugin_camera_choose_back.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\plugin_camera_choose_back.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable_explist_arrow.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable\\explist_arrow.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_kadl_lv_item.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\kadl_lv_item.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable_plugin_camera_del_state.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable\\plugin_camera_del_state.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_del_round.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\del_round.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plugin_camera_back_btn_pressed.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\plugin_camera_back_btn_pressed.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_plugin_camera_image_file.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\plugin_camera_image_file.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lg_password.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-mdpi\\lg_password.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable_bg_gridview_qsd.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable\\bg_gridview_qsd.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_check_pic_none.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-xxhdpi\\check_pic_none.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plugin_camera_send_focused.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\plugin_camera_send_focused.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_activity_mr_addinfo.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\activity_mr_addinfo.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plugin_camera_choosed.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\plugin_camera_choosed.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow_right.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\arrow_right.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_driver_explistitem_father.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\driver_explistitem_father.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_plugin_camera_select_folder.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\plugin_camera_select_folder.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_lg_user.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-xxhdpi\\lg_user.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_activity_bgcz.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\activity_bgcz.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable_btn_corner.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable\\btn_corner.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_activity_capture.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_item_published_grida.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\item_published_grida.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable_plugin_camera_ok_btn_state.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable\\plugin_camera_ok_btn_state.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable_plugin_camera_albumbackground.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable\\plugin_camera_albumbackground.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_plugin_camera_show_all_photo.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\plugin_camera_show_all_photo.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plugin_camera_send_pressed.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\plugin_camera_send_pressed.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lg_user.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\lg_user.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_lg_user.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-xhdpi\\lg_user.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lg_password.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\lg_password.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_activity_mrcheckpic.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\activity_mrcheckpic.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\anim_pop_hidden.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\anim\\pop_hidden.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_transparent.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\bg_transparent.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_lg_password.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-xxhdpi\\lg_password.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_activity_mr.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\activity_mr.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plugin_camera_preview_pressed.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\plugin_camera_preview_pressed.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plugin_camera_back_btn.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\plugin_camera_back_btn.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_lg_password.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-xhdpi\\lg_password.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_check_pic_none.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-xhdpi\\check_pic_none.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plugin_camera_cancel_pressed.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\plugin_camera_cancel_pressed.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_activity_showpage.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\activity_showpage.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_showpage_bg.jpg.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\showpage_bg.jpg"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_login_bg.jpg.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\login_bg.jpg"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plugin_camera_del_unfocused.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\plugin_camera_del_unfocused.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable_btn_selected.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable\\btn_selected.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrow_down.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\arrow_down.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_item_lv_mr.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\item_lv_mr.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable_plugin_camera_pic_choose_selector.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable\\plugin_camera_pic_choose_selector.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plugin_camera_album_back.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\plugin_camera_album_back.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_lg_password.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-ldpi\\lg_password.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\anim_pop_show.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\anim\\pop_show.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_bgcz.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\main_bgcz.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable_btn_login_selector.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable\\btn_login_selector.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_check_pic_none.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\check_pic_none.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_picloading.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\picloading.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_sjcz.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\main_sjcz.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_bgcz_lv_item.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\bgcz_lv_item.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_item_popupwindows_picture.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\item_popupwindows_picture.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lg_user.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-mdpi\\lg_user.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable_selector_lv_mr_checkpic.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable\\selector_lv_mr_checkpic.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plugin_camera_send_unselected.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\plugin_camera_send_unselected.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_plugin_camera_select_imageview.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\plugin_camera_select_imageview.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_default_pic.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\default_pic.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plugin_camera_cancel.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\plugin_camera_cancel.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_driver_explistitem_child.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\driver_explistitem_child.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_plugin_camera_no_image_file.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\plugin_camera_no_image_file.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable_plugin_camera_title_btn_preview.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable\\plugin_camera_title_btn_preview.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_activity_driver.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\activity_driver.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable_bt_nobgd.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable\\bt_nobgd.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_kadl.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\main_kadl.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_plugin_camera_album.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\plugin_camera_album.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_item_gv_main.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\item_gv_main.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_lg_user.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-ldpi\\lg_user.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_title_back.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\title_back.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\layout_app_title.xml.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\layout\\app_title.xml"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plubin_camera_del_focused.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\plubin_camera_del_focused.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_check_pic_none.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-mdpi\\check_pic_none.png"
+    },
+    {
+        "merged": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plugin_camera_preview_unselected.png.flat",
+        "source": "F:\\01_Codes2017\\01_Android\\01_Demo\\TianTian\\tGZZB\\src\\main\\res\\drawable-hdpi\\plugin_camera_preview_unselected.png"
+    }
+]

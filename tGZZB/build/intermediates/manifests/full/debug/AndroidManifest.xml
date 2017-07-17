@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tgzzb.cdc"
+    android:versionCode="1"
+    android:versionName="1.009" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+
+    <application
+        android:name="com.tgzzb.cdc.MyApp"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.tgzzb.cdc.ShowPageActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.tgzzb.cdc.LoginActivity" >
+        </activity>
+        <!-- Mr取货 -->
+        <activity android:name="com.tgzzb.cdc.MainActivity" >
+        </activity>
+        <activity android:name="com.tgzzb.cdc.MrActivity" >
+        </activity>
+        <activity
+            android:name="com.tgzzb.cdc.MrAddInfoActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity android:name="com.tgzzb.cdc.MrCheckAllPicActivity" >
+        </activity>
+
+        <!-- Driver -->
+        <activity android:name="com.tgzzb.cdc.DriverActivity" >
+        </activity>
+        <activity
+            android:name="com.tgzzb.cdc.DriverAddInfoActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan|stateHidden" >
+        </activity>
+        <activity android:name="com.tgzzb.cdc.DriverCheckPicActivity" >
+        </activity>
+        <!-- BGCZ -->
+        <activity
+            android:name="com.tgzzb.cdc.BGCZActivity"
+            android:configChanges="orientation|keyboardHidden" >
+        </activity>
+        <activity android:name="com.zxing.android.CaptureActivity" >
+        </activity>
+        <!-- KADL -->
+        <activity android:name="com.tgzzb.cdc.KADLActivity" >
+        </activity>
+
+        <!-- imagePicker -->
+        <activity android:name="com.tgzzb.cdc.imagepicker.AlbumActivity" >
+        </activity>
+        <activity android:name="com.tgzzb.cdc.imagepicker.GalleryActivity" >
+        </activity>
+        <activity android:name="com.tgzzb.cdc.imagepicker.ImageFile" >
+        </activity>
+        <activity android:name="com.tgzzb.cdc.imagepicker.ShowAllPhoto" >
+        </activity>
+    </application>
+
+</manifest>
